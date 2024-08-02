@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aace296d-adda-409e-a8ff-ea05bbc0d4e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../algorithm/alogrithm.dart" afterDir="false" />
-    </list>
+    <list default="true" id="aace296d-adda-409e-a8ff-ea05bbc0d4e8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,9 +19,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2ju8mVecnI4QkVc7BqHCBL7L7Wm" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,7 +36,7 @@
     "cidr.known.project.marker": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/project/hl-assignment/mobile",
+    "last_opened_file_path": "D:/project/hl-assignment/mobile/jokee_single_serving",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
